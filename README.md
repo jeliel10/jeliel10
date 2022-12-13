@@ -2,7 +2,7 @@
 
 
 -  Estou estudando Ciências da Computação
--  Tenho experiência com as linguagens Java e Flutter
+-  Tenho experiência com as linguagens Java, Flutter e Python
 
 <div align="center">
   <a href="https://github.com/jeliel10">
